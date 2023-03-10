@@ -1,0 +1,2 @@
+$response = array
+echo
